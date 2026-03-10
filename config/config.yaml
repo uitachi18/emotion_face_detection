@@ -1,0 +1,4 @@
+model_path: "models/emotion_cnn.h5"
+face_detector: "opencv"
+image_size: 48
+classes: ["Angry", "Happy", "Sad", "Surprise", "Neutral"]

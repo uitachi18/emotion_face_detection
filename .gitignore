@@ -1,0 +1,11 @@
+venv/
+data/
+models/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+detectors/__pycache__/
+pipelines/__pycache__/
+utils/__pycache__/
+classifiers/__pycache__/
